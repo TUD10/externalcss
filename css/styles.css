@@ -1,0 +1,37 @@
+* {font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: antiquewhite;}
+
+.he1 {text-align: center;
+border-style: dashed;
+color: palevioletred;
+text-transform: uppercase;}
+
+.bs1 {border-style: dotted;
+  border-color:rgb(99, 11, 182);
+  border-width: 5px ;}
+.bs2 {border-style: double;
+border-color: rgb(4, 131, 131);
+border-width: 7px;} 
+
+.bs3 {border-style: ridge;
+border-color: rgb(149, 147, 250);
+border-width: 7px;}
+
+.para {text-align: justify;
+color: rgb(33, 98, 172);}
+
+.he2 {text-align: center;
+color: rebeccapurple;
+text-transform: capitalize;}
+
+.he22 {text-align: center;
+  color: goldenrod;
+  border-style: double;
+text-transform: capitalize;}
+
+.he222 {text-align: center;
+  color: royalblue;
+  border-style: ridge;
+text-transform: capitalize;}
+  
+
